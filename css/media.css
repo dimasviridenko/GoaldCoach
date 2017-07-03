@@ -1,5 +1,5 @@
 /*<------------------------------------------>*/
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 
 /*<------------------------------------------>*/
 @media only screen and (max-width: 640px) {
@@ -39,6 +39,7 @@ header {
     width: 100%; 
 }
 .header-info input[type="submit"] {
+    background-color: rgb(255,98,31);
     font-size: 20px;
     display: block; 
     width: 100%; 
@@ -169,6 +170,7 @@ header {
     margin-left: -20px;
 }
 .blocks-footer input[type="submit"] {
+    background-color: rgb(255,98,31);
     display: block; 
     width: 90%; 
     margin: auto auto;
@@ -242,6 +244,7 @@ header {
     width: 100%; 
 }
 .try-it-info input[type="submit"] {
+    background-color: rgb(255,98,31);
      display: block; 
     width: 90%; 
     margin: 0;
@@ -292,6 +295,7 @@ header {
     width: 100%; 
 }
 .header-info input[type="submit"] {
+    background-color: rgb(255,98,31);
     font-size: 20px;
     display: block; 
     width: 100%; 
@@ -420,6 +424,7 @@ header {
     margin-left: -20px;
 }
 .blocks-footer input[type="submit"] {
+    background-color: rgb(255,98,31);
     display: block; 
     width: 90%; 
     margin: auto auto;
@@ -490,6 +495,7 @@ header {
     width: 100%; 
 }
 .try-it-info input[type="submit"] {
+    background-color: rgb(255,98,31);
     display: block; 
     width: 90%; 
     margin: 0;
@@ -502,4 +508,3 @@ header {
     width: 95%;     
 }
 }
-
